@@ -1,5 +1,5 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64b3f9,100:B997D6&fontColor=FFFFFF&fontSize=40&text=DYoung%20Profile%20🎈%20&animation=twinkling&height=250&fontAlignY=40" alt="header" width="100%" />
- 
+ <div align=center>
  🌱 I am a student developer studying ....
 <div align=center>
 
