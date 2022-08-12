@@ -14,7 +14,8 @@
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
  
  ### 💁🏻‍♂️ Introduce
- I am a student developer studying backend , frontend
+ I am a student developer studying backend , frontend <br>
+ 21세기를 살아가는 사람은 세대공감하고 시대의 흐름을 읽는 혜안이 필요하다
  
 ###  📫Contact me </br>
 [![Instagram](https://img.shields.io/badge/Instagram-@do0park_-DB2973?logo=instagram&logoColor=white)](https://www.instagram.com/do0park_)
