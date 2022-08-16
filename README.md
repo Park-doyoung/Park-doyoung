@@ -20,9 +20,10 @@
  21세기를 살아가는 사람은 세대공감하고 시대의 흐름을 읽는 혜안이 필요하다
  
 ###  📫Contact me </br>
+[![KakaoTalk](https://img.shields.io/badge/KakaoTalk-박도영FFCD00?logo=kakaotalk&logoColor=white)](https://open.kakao.com/o/s5OD30ve)
 [![Instagram](https://img.shields.io/badge/Instagram-@do0park_-DB2973?logo=instagram&logoColor=white)](https://www.instagram.com/do0park_)
-[![Email](https://img.shields.io/badge/Email-cym7356@naver.com-EA4335?logo=gmail&logoColor=white)](mailto:cym7356@naver.com)
 </br>
+[![Email](https://img.shields.io/badge/Email-cym7356@naver.com-EA4335?logo=gmail&logoColor=white)](mailto:cym7356@naver.com)
 ![Profile views](https://gpvc.arturio.dev/Parkdoyung)
 </br>
 <div align=center>
