@@ -23,7 +23,7 @@
 [![KakaoTalk](https://img.shields.io/badge/KakaoTalk-박도영FFCD00?logo=kakaotalk&logoColor=white)](https://open.kakao.com/o/s5OD30ve)
 [![Instagram](https://img.shields.io/badge/Instagram-@do0park_-DB2973?logo=instagram&logoColor=white)](https://www.instagram.com/do0park_)
 </br>
-[![Email](https://img.shields.io/badge/Email-cym7356@naver.com-EA4335?logo=gmail&logoColor=white)](mailto:cym7356@naver.com)
+[![Email](https://img.shields.io/badge/Email-cym7356@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:cym7356@gmail.com)</br>
 ![Profile views](https://gpvc.arturio.dev/Parkdoyung)
 </br>
 <div align=center>
