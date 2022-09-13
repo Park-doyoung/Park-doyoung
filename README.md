@@ -1,8 +1,8 @@
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64b3f9,100:B997D6&fontColor=FFFFFF&fontSize=40&text=DYoung%20Profile%20📖%20&animation=twinkling&height=250&fontAlignY=40" alt="header" width="100%" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64b3f9,100:B997D6&fontColor=FFFFFF&fontSize=40&text=DYoung%20Profile%20%20&animation=twinkling&height=250&fontAlignY=40" alt="header" width="100%" />
 
 <div align=center>
 
-### 🕵️‍♂️ Skill list
+### Skill list
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -17,11 +17,11 @@
  
 
  
- ### 💁🏻‍♂️ Introduce
+ ### Introduce
  I am a student developer studying backend , frontend <br>
  21세기를 살아가는 사람은 세대공감하고 시대의 흐름을 읽는 혜안이 필요하다
  
-###  📫Contact me </br>
+### Contact me </br>
 [![KakaoTalk](https://img.shields.io/badge/KakaoTalk-박도영FFCD00?logo=kakaotalk&logoColor=white)](https://open.kakao.com/o/s5OD30ve)
 [![Instagram](https://img.shields.io/badge/Instagram-@do0park_-DB2973?logo=instagram&logoColor=white)](https://www.instagram.com/do0park_)
 </br>
