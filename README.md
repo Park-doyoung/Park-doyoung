@@ -9,5 +9,5 @@
 
 ![Profile views](https://gpvc.arturio.dev/pdy1207)
 <p align="center">
-<a href="https://www.buymeacoffee.com/pdyme"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/></a>
+<a href="#"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/></a>
 </p>
