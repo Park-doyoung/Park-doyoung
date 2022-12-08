@@ -2,7 +2,7 @@
 
 <h4 align="center"><br>
 <p align="center">
-  <a href="https://github.com/pdy1207"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Frontend%20Web%20Developer;👨‍💻%20Hello%20World!&font=Pacifico&center=true&width=650&height=50&color=58a6ff&vCenter=true&size=35%15">
+  <a href="https://github.com/pdy1207"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Frontend%20Web%20Developer;👨‍💻%20Hello%20World!;🤓%20PHP%20learn..&font=Pacifico&center=true&width=650&height=50&color=58a6ff&vCenter=true&size=35%15">
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="35%" align="right">
    </a>
 </p>
