@@ -1,6 +1,5 @@
 <p align="left">
     <img src="https://i.imgur.com/A6bWGFl.gif"/>
-    <img src="https://github.com/pdy1207/pdy1207/assets/110442250/387b8de5-e531-4d6b-b54f-5bf83ac495eb" height="40"/> 
 </p>
 
 <p>    
